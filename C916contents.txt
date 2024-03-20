@@ -1,0 +1,23 @@
+
+    Directory: /Users/tbarnett/Documents/Requirements1
+
+UnixMode       User Group   LastWriteTime    Size Name
+--------       ---- -----   -------------    ---- ----
+-rw-rw-r-- tbarnett staff 10/9/2017 15:24   14941 10.1clients.xlsx
+-rw-rw-r-- tbarnett staff 10/9/2017 15:22   16935 8.1clients.xlsx
+-rw-rw-r-- tbarnett staff 10/9/2017 15:23   17156 9.1clients.xlsx
+-rw-rw-r-- tbarnett staff 9/22/2017 10:47 2779843 apache_access.log
+-rw-r--r-- tbarnett staff 3/20/2024 13:37   46652 b3.png
+-rw-r--r-- tbarnett staff 3/20/2024 13:39  236321 b4.png
+-rw-rw-r-- tbarnett staff 9/22/2017 10:54   61804 Basic Vanilla Milkshake Recipe _ Bobby Flay _ Food Network.pdf
+-rw-r--r-- tbarnett staff 3/20/2024 13:39       0 C916contents.txt
+-rw-r--r-- tbarnett staff 3/20/2024 13:39     330 DailyLog.txt
+-rw-rw-r-- tbarnett staff 10/9/2017 14:53   16189 eventA.log
+-rw-rw-r-- tbarnett staff 10/9/2017 14:54   15667 eventB.log
+-rw-rw-r-- tbarnett staff 10/9/2017 14:54   15766 eventC.log
+-rw-rw-r-- tbarnett staff 10/9/2017 14:55   16693 eventD.log
+-rw-rw-r-- tbarnett staff 10/9/2017 14:55   16671 eventE.log
+-rw-rw-r-- tbarnett staff 9/22/2017 10:57 4150250 JanuaryEventPic1.jpeg
+-rw-r--r-- tbarnett staff 3/20/2024 13:36    4295 prompts.ps1
+-rw-rw-r-- tbarnett staff 9/22/2017 10:58   95010 swedenCarnivalEvent.jpg
+
